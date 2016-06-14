@@ -5,11 +5,12 @@ email: your-email@yourdomain.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://localhost:4000"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+url: "http://sebastienbeauchamp.com/perrine-gogneaux-site"
+twitter_username: perrinegogneaux
+instagram_username: perrinegogneaux
+github_username:
+facebook_username:
+email_username:  perrine.gogneaux@gmail.com
 
 # Build settings
 markdown: kramdown
